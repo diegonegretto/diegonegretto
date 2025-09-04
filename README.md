@@ -24,12 +24,6 @@ Também sou um **aspirante a escritor**, buscando conectar criatividade e ciênc
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
-
----
-
 ## ✍️ Além da Computação  
 Quando não estou programando ou ensinando, gosto de:  
 - 📚 Escrever (contos e crônicas)  
