@@ -26,7 +26,7 @@ Também sou um **aspirante a escritor**, buscando conectar criatividade e ciênc
 
 ## ✍️ Além da Computação  
 Quando não estou programando ou ensinando, gosto de:  
-- 📚 Escrever (contos e crônicas)  
+- 📚 Escrever (contos e romances)  
 - 🎮 Explorar o mundo nerd (RPG, games, literatura fantástica)  
 - 👨‍👩‍👧 Estar com a família e minhas gatas  
 
