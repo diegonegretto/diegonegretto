@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim  
 Sou apaixonado por **tecnologia, ensino e escrita**.  
-Atualmente trabalho como professor universitário, compartilhando conhecimento em **Sistemas de Informação** e explorando aplicações práticas de **Machine Learning, Data Science e Python**.  
+Atualmente trabalho como professor universitário, compartilhando conhecimento em **Sistemas de Informação** e explorando aplicações práticas de **Python, Inteligência Artificial e Data Science**.  
 
 Também sou um **aspirante a escritor**, buscando conectar criatividade e ciência em projetos pessoais.  
 
